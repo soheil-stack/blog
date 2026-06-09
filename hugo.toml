@@ -33,3 +33,7 @@ pygmentsUseClasses = true
 [markup.goldmark.renderer]
   # Allows HTML in Markdown
   unsafe = true
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
