@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Soheil&#39;s Block</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Soheil&#39;s Block</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jun 2026 13:39:41 +0330</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    
+    
+    
+    <item>
+      <title>My Post</title>
+      <link>http://localhost:1313/my-post/</link>
+      <pubDate>Tue, 09 Jun 2026 13:39:41 +0330</pubDate>
+      
+      <guid>http://localhost:1313/my-post/</guid>
+      <description></description>
+    </item>
+    
+    
+  </channel>
+</rss>
