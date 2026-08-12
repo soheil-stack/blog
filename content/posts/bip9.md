@@ -33,7 +33,7 @@ A hard fork relaxes the consensus rules, meaning that it can make blocks or tran
 
 A soft fork tightens the consensus rules, meaning that it makes the set of valid blocks and transactions more restrictive. For example, decreasing the maximum allowed block size would be a soft fork.
 
-![Bitcoin forks](/images/bitcoin-forks.svg)
+![Bitcoin forks](/blog/images/bitcoin-forks.svg)
 
 The important difference is how these changes affect nodes that have not upgraded.
 
@@ -321,7 +321,7 @@ The remaining question is how these pieces are combined to determine the current
 
 BIP9 defines a state machine for this purpose. A deployment moves through a sequence of states during its lifecycle:
 
-![BIP9 state machine](/images/bip9-state-machine.svg)
+![BIP9 state machine](/blog/images/bip9-state-machine.svg)
 
 There are five possible states:
 
